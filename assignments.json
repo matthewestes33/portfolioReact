@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "E-Commerce Back End",
+        "image": "./assets/eCommerceORM.jpg",
+        "stack": " "
+    },
+    {
+        "id": 2,
+        "name": "MySQL Employee Tracker",
+        "image": "./assets/mysqltracker.jpg",
+        "stack": " "
+    },
+    {
+        "id": 3,
+        "name": "Professional README Generator",
+        "image": "./assets/proREADMEgen.jpg",
+        "stack": " "
+    },
+    {
+        "id": 4,
+        "name": "8-to-5 Work Day Scheduler",
+        "image": "./assets/workdaysch.jpg",
+        "stack": " "
+    },
+]
