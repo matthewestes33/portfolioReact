@@ -1,7 +1,7 @@
 import React from 'react'; 
-import ProjectCards from '../../components/Projects'
-import assignments from '../../assignments.json'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import ProjectCards from '../components/Projects'
+import assignments from '../assignments.json'
+import 'bootstrap/dist/css/bootstrap.css';
 
 function Wrapper(props) {
     return <div className="wrapper">{props.children}</div>;
