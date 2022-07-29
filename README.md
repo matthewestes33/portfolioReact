@@ -19,6 +19,8 @@ Documentation:
 
 https://create-react-app.dev/docs/adding-bootstrap/
 
+https://github.com/gitname/react-gh-pages
+
 Additional assistance:
 
 Thank you to my instructional staff Farish and Riley, tutor Juan Delgado, and AskBCS Learning Assistants!
