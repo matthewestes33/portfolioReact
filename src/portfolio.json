@@ -2,25 +2,27 @@
     {
         "id": 1,
         "name": "E-Commerce Back End",
-        "image": "./assets/eCommerceORM.jpg",
+        "image": "https://github.com/matthewestes33/portfolioReact/blob/main/src/assets/eCommerceORM.jpg",
+        "github": "https://github.com/matthewestes33/eCommerceORM",
+        "deploy": "https://github.com/matthewestes3/eCommerceORM",
         "stack": " "
     },
     {
         "id": 2,
         "name": "MySQL Employee Tracker",
-        "image": "./assets/mysqltracker.jpg",
+        "image": "/assets/mysqltracker.jpg", 
         "stack": " "
     },
     {
         "id": 3,
         "name": "Professional README Generator",
-        "image": "./assets/proREADMEgen.jpg",
+        "image": "/assets/proREADMEgen.jpg",
         "stack": " "
     },
     {
         "id": 4,
         "name": "8-to-5 Work Day Scheduler",
-        "image": "./assets/workdaysch.jpg",
+        "image": "/assets/workdaysch.jpg",
         "stack": " "
     }
 ]
