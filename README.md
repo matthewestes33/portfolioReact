@@ -11,15 +11,15 @@ This application allows employers looking for candidates with experience buildin
 
 All elements of the application can be examined here: https://github.com/matthewestes33/portfolioReact
 
-The deployed application can be used here: 
+The deployed application can be used here: https://matthewestes33.github.io/portfolioReact/#/portfolio
 
 ## Credits
 
 Documentation:
 
-https://create-react-app.dev/docs/adding-bootstrap/
+Adding Bootstrap: https://create-react-app.dev/docs/adding-bootstrap/
 
-https://github.com/gitname/react-gh-pages
+Deploying a React App* to GitHub Pages: https://github.com/gitname/react-gh-pages
 
 Additional assistance:
 
