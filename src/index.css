@@ -51,6 +51,7 @@ h1 {
   font-size: 22px;
   text-decoration: none;
   align-content: center;
+  display: inline;
 }
 
 #navigation a {
@@ -107,7 +108,6 @@ h1 {
 #card-title {
   margin-top: 10px;
   color: var(--onyx);
-  text-shadow: 1px 1px 6px var(--sandy-brown);
 }
 
 .wrapper {

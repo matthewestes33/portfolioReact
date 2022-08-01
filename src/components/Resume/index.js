@@ -4,10 +4,7 @@ function Resume() {
 
     return (
         <section class="mb-5">
-            <h1 className="resume">Resume</h1>
-            <hr></hr>
-            <div class="row justify-content-center" id="resume">
-                <div class="mt-5 pl-5 pr-5">
+            <div class="row justify-content-center" id="about-section">
                     Full stack web developer in training with extensive experience in education, training, and development.
                     Progressing to a certificate in full stack development (JavaScript MERN Stack) from the University of Arizona.
                     10+ years experience as an adult educator, with recent expertise in translating in-person instruction to virtual and on-demand audiences.
@@ -16,18 +13,16 @@ function Resume() {
                     Currently seeking to bring my web development expertise and creativity up to par with my existing communication, writing, and project management abilities.
                     Positioned to provide unique perspectives on creating and implementing user stories into future projects by leveraging past experiences working in government, higher education, and boutique firms.
                     Seeking to leverage my skillset with a like-minded team to build better experiences on the web.
-
-                </div>
             </div>
 
             <div class="justify-content-center mt-5">
                 <div id="front-back">
-                    <h2>Front End</h2>
+                    <h3>Front End</h3>
                     <p>HTML, CSS (Bootstrap, Materialize), JavaScript, jQuery, React.js, IndexedDB</p>
                 </div>
 
                 <div id="front-back" class="mt-5">
-                    <h2>Back End</h2>
+                    <h3>Back End</h3>
                     <p>
                         Node.js, Express.js, mySQL, Sequelize, NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Handlebars
                     </p>

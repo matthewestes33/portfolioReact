@@ -1,6 +1,6 @@
 import React from 'react'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import eCommerce from '../images/eCommerceORM.jpg';
+import eCommerce from '../../assets/images/eCommerceORM.jpg';
 
 function ProjectCards(props) {
     return (
@@ -13,6 +13,7 @@ function ProjectCards(props) {
               <p>
               <a href={props.github}><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
               <a href={props.deploy}><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Site" id="project-icon"/></a> 
+              {/* need third */}
               </p>
               <p id="topics">
                     ({props.topics})

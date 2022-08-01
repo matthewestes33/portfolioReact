@@ -38,8 +38,6 @@ function ContactForm() {
 
 return (
     <section class="justify-content-center" id="contact-section">
-        <h1 data-testid='h1tag' className="contact">Contact</h1>
-        <hr></hr>
         <form class="justify-content-center" id="contact-form">
             <div>
                 <label htmlFor="name">name:</label>
