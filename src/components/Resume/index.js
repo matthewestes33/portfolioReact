@@ -17,13 +17,6 @@ function Resume() {
                     Positioned to provide unique perspectives on creating and implementing user stories into future projects by leveraging past experiences working in government, higher education, and boutique firms.
                     Seeking to leverage my skillset with a like-minded team to build better experiences on the web.
 
-                    <p class="mt-5">
-                        <a href="https://https://www.linkedin.com/in/matthewestes33/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="LinkedIn" /></a>
-                    </p>
-                    <p>
-                        Download my full <a href="placeholder.pdf" class="link">Resume</a>
-                        <br></br>
-                    </p>
                 </div>
             </div>
 
