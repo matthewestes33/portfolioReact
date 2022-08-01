@@ -19,6 +19,8 @@ Documentation:
 
 Adding Bootstrap: https://create-react-app.dev/docs/adding-bootstrap/
 
+Adding Images, Fonts, and Files: https://create-react-app.dev/docs/adding-images-fonts-and-files/
+
 Deploying a React App* to GitHub Pages: https://github.com/gitname/react-gh-pages
 
 Additional assistance:

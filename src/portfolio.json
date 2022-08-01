@@ -2,10 +2,10 @@
     {
         "id": 1,
         "name": "E-Commerce Back End",
-        "image": "require('/assets/images/eCommerceORM.jpg')",
+        "image": "https://github.com/matthewestes33/portfolioReact/blob/main/src/assets/images/eCommerceORM.jpg",
         "github": "https://github.com/matthewestes33/eCommerceORM",
         "deploy": "https://drive.google.com/file/d/1dgeEctAwvZIyMaRlEDfm3I6jnO8kIaOX/view",
-        "stack": " "
+        "stack": "Node.js"
     },
     {
         "id": 2,
