@@ -24,7 +24,7 @@ function About() {
                         Seeking to leverage my skillset with a like-minded team to build better experiences on the web.
                     </p>
                     <p>
-                        View full <a href="#/resume" class="link">resume</a>
+                        View more <a href="#/resume" class="link">here</a>
                     </p>
                 </div>
             </div>
