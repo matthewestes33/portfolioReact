@@ -5,7 +5,7 @@ This application allows employers looking for candidates with experience buildin
 
 ## Mock-up
 
-![screenshot here.](./assets/here.jpg)
+![Portfolio.](././assets/images/portfolio.jpg)
 
 ## Installation
 
