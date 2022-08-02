@@ -18,9 +18,9 @@ function Resume() {
                     Positioned to provide unique perspectives on creating and implementing user stories into future projects by leveraging past experiences working in government, higher education, and boutique firms.
                     Seeking to leverage my skillset with a like-minded team to build better experiences on the web.
                 </p>
-                <p>
-                    {PortfolioResume}
-                </p>
+                <a class="about-section" href={PortfolioResume} download="Resume">
+                    Download Resume
+                </a>
             </div>
 
             <div class="justify-content-center mt-5">
@@ -36,7 +36,7 @@ function Resume() {
                     </p>
                 </div>
             </div>
-        </section>
+        </section >
     );
 }
 

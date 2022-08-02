@@ -44,6 +44,7 @@ h1 {
 #header {
   display: flex;
   margin-left: 5px;
+  font-size: 30px;
 }
 
 #navigation {

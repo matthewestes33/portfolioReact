@@ -13,12 +13,12 @@ class Header extends Component {
         <HashRouter>
             <div className="row Header" id="header">
             <a href="https://matthewestes33.github.io/portfolioReact/"><img src={Traveler} alt="Matthew Estes" class="icon" id="me" /></a>
-                <Navigation/>
+            <p>Matthew Estes</p> 
+            <Navigation/>
             </div>
     
 
     <div className="content">
-        Matthew Estes |
           <Route exact path="/" render={() => (<Redirect to="/about"/>)}/>
           <Route path="/portfolio" component={Portfolio}/>
           <Route path="/about" component={About}/>
