@@ -62,7 +62,12 @@ h1 {
   text-decoration: none;
 }
 
+.card-deck {
+  display: flex;
+}
+
 .card {
+  display: flex;
   background-color: var(--platinum);
   border-radius: 5px;
   height: 400px;
@@ -72,28 +77,6 @@ h1 {
   box-shadow: 0 2px 2px var(--onyx), 0 6px 12px var(--onyx);
 }
 
-.card .img-container {
-  height: 75%;
-  overflow: hidden;
-  text-align: center;
-  border-radius: 10px;
-  background-color: var(--platinum);
-}
-
-.card .img-container img {
-  width: 100%;
-  padding: 25px;
-  margin-bottom: 20px;
-  background-color: var(--platinum);
-}
-
-.card .content {
-  font-size: 18px;
-  background-color: var(--platinum);
-  color: var(--blue);
-  font-weight: bold;
-  text-align: center;
-}
 
 #project-icon {
   background-color: var(--platinum);
@@ -104,22 +87,6 @@ h1 {
   font-size: small;
   font-style: italic;
   color: var(--onyx);
-}
-
-#card-title {
-  margin-top: 10px;
-  color: var(--onyx);
-}
-
-.wrapper {
-  padding-top: 50px;
-  justify-content: space-around;
-  height: 100%;
-  display: flex;
-  overflow: auto;
-  flex-flow: row wrap;
-  padding: 10px;
-  align-content: flex-start;
 }
 
 #footer {
