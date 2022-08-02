@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolioReact/static/css/main.1ff805ad.chunk.css",
-    "main.js": "/portfolioReact/static/js/main.80f484eb.chunk.js",
-    "main.js.map": "/portfolioReact/static/js/main.80f484eb.chunk.js.map",
+    "main.js": "/portfolioReact/static/js/main.e08f007b.chunk.js",
+    "main.js.map": "/portfolioReact/static/js/main.e08f007b.chunk.js.map",
     "runtime-main.js": "/portfolioReact/static/js/runtime-main.7964c84a.js",
     "runtime-main.js.map": "/portfolioReact/static/js/runtime-main.7964c84a.js.map",
     "static/css/2.cd6b84b0.chunk.css": "/portfolioReact/static/css/2.cd6b84b0.chunk.css",
@@ -14,14 +14,19 @@
     "static/css/2.cd6b84b0.chunk.css.map": "/portfolioReact/static/css/2.cd6b84b0.chunk.css.map",
     "static/css/main.1ff805ad.chunk.css.map": "/portfolioReact/static/css/main.1ff805ad.chunk.css.map",
     "static/js/2.e0311a93.chunk.js.LICENSE.txt": "/portfolioReact/static/js/2.e0311a93.chunk.js.LICENSE.txt",
+    "static/media/eCommerceORM.b81b1538.jpg": "/portfolioReact/static/media/eCommerceORM.b81b1538.jpg",
     "static/media/estes-resume.9ab6906e.pdf": "/portfolioReact/static/media/estes-resume.9ab6906e.pdf",
-    "static/media/pwaEditor.b39a8422.jpg": "/portfolioReact/static/media/pwaEditor.b39a8422.jpg"
+    "static/media/mysqltracker.692422b4.jpg": "/portfolioReact/static/media/mysqltracker.692422b4.jpg",
+    "static/media/proREADMEgen.cb0f9783.jpg": "/portfolioReact/static/media/proREADMEgen.cb0f9783.jpg",
+    "static/media/pwaEditor.b39a8422.jpg": "/portfolioReact/static/media/pwaEditor.b39a8422.jpg",
+    "static/media/socialAPI.4b5419e7.jpg": "/portfolioReact/static/media/socialAPI.4b5419e7.jpg",
+    "static/media/workdaysch.66c3b4f5.jpg": "/portfolioReact/static/media/workdaysch.66c3b4f5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7964c84a.js",
     "static/css/2.cd6b84b0.chunk.css",
     "static/js/2.e0311a93.chunk.js",
     "static/css/main.1ff805ad.chunk.css",
-    "static/js/main.80f484eb.chunk.js"
+    "static/js/main.e08f007b.chunk.js"
   ]
 }
