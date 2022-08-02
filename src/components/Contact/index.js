@@ -14,7 +14,7 @@ function ContactForm() {
             const isValid = validateEmail(e.target.value);
     
                 if(!isValid) {
-                    setErrorMessage('please enter a valid email');
+                    setErrorMessage('Please enter a valid email.');
                 } else {
                     setErrorMessage('');
                 }

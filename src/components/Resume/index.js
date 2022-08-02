@@ -1,4 +1,5 @@
 import React from 'react';
+import PortfolioResume from '../../assets/images/estes-resume.pdf'
 
 function Resume() {
 
@@ -18,20 +19,20 @@ function Resume() {
                     Seeking to leverage my skillset with a like-minded team to build better experiences on the web.
                 </p>
                 <p>
-                    Full resume available <a href="https://docs.google.com/document/d/12lnG0yXwUrOPGuINqD0EFD94COP8-gXM/view">here</a>
+                    {PortfolioResume}
                 </p>
             </div>
 
             <div class="justify-content-center mt-5">
                 <div id="about-section">
                     <h3>Front End</h3>
-                    <p>HTML, CSS (Bootstrap, Materialize), JavaScript, jQuery, React.js, IndexedDB</p>
+                    <p>HTML, CSS (Bootstrap, Materialize), JavaScript, jQuery, React.js, Progressive Web Applications</p>
                 </div>
 
                 <div id="about-section" class="mt-5">
                     <h3>Back End</h3>
                     <p>
-                        Node.js, Express.js, mySQL, Sequelize, NoSQL (MongoDB, Mongoose), API's (third-party, RESTful, server-side), Handlebars
+                        Node.js, Express.js, mySQL, Sequelize, NoSQL (MongoDB, Mongoose), API's (web, third-party, server-side), Handlebars
                     </p>
                 </div>
             </div>
