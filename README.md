@@ -5,7 +5,7 @@ This application allows employers looking for candidates with experience buildin
 
 ## Mock-up
 
-![Portfolio.](././assets/images/portfolio.jpg)
+![Portfolio.](https://raw.githubusercontent.com/matthewestes33/portfolioReact/main/src/assets/images/portfolio.jpg)
 
 ## Installation
 
