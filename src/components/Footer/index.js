@@ -7,7 +7,7 @@ function Footer() {
         <a href="https://linkedin.com/in/matthewestes33/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" class="icon"/></a>
         <a href="https://stackoverflow.com/users/19675990/me33"><img src="https://img.icons8.com/color/48/000000/stack-overflow.png" alt="Stack Overflow" class="icon"/></a>
         <p>
-        &copy; Matthew Estes  |  Made With <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+        &copy; <a href = "mailto: matthewestes@outlook.com">Matthew Estes</a> |  Made With <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
         </p>
 
     </div>
