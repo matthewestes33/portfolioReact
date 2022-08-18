@@ -12,14 +12,6 @@ function About() {
                         Experience in government, higher education, K-12, and for-profit.
                     </p>
                     <p>
-                        Full stack web developer in training with extensive experience in education, training, and development. 
-                        Recently completed a certificate in full stack development (JavaScript MERN Stack) from the University of Arizona, 
-                        with a focus on intensive collaboration with colleagues and faculty on group projects. 
-                        10+ years experience as an adult educator, with recent expertise in translating in-person instruction to virtual and on-demand audiences. 
-                        Certified supervisor and manager, with education and experience in job coaching, project management, and traditional HR topics. 
-                        Formal education includes a law degree, with significant work experience related to legal writing and research.
-                    </p>
-                    <p>
                         View more <a href="#/resume" class="link">here</a>
                     </p>
                 </div>
