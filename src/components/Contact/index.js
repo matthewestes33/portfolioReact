@@ -40,6 +40,9 @@ return (
     <section class="justify-content-center" id="contact-section">
         <form class="justify-content-center" id="contact-form">
             <div>
+                <p>Contact me at matthewestes@outlook.com or use the form below.</p>
+            </div>
+            <div>
                 <label htmlFor="name">name:</label>
                 <input class="form-control" type="text" name="name"  defaultValue={name} onBlur={handleChange}/>
             </div>
